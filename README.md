@@ -33,9 +33,7 @@ Windows 下双击 `setup.bat`，或执行：
 python auto_login.py --setup
 ```
 
-按提示输入学号、密码并确认密码。配置保存在脚本所在目录的 `config.json`，其中学号以明文保存，密码使用当前 Windows 用户的 DPAPI 加密保存。更换电脑或 Windows 用户后，需要重新配置。
-
-之后运行 `login.bat` 或 `watch.bat` 即可。`config.json` 已被 Git 忽略，请勿手动上传自己的配置或抓包文件。
+按提示输入学号、密码并确认密码。配置保存在脚本所在目录的 `config.json`，其中学号以明文保存，密码使用当前 Windows 用户的 DPAPI 加密保存。更换电脑或 Windows 用户后，需要重新配置。之后运行 `login.bat` 或 `watch.bat` 即可。
 
 ## 掉线自动重连
 
