@@ -1,0 +1,10 @@
+{
+  "server": "http://172.16.154.130",
+  "username": "",
+  "ac_id": "1",
+  "ip": "",
+  "timeout": 10,
+  "interval": 60,
+  "retry_max_interval": 900,
+  "password": ""
+}
